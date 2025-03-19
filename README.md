@@ -40,7 +40,9 @@
 - **AI Chatbot App**  
   _An AI-powered chatbot for customer support._ ✅  
 - **Graphics & UI/UX Projects**  
-  _Creative designs and interactive UI concepts._ ✅  
+  _Creative designs and interactive UI concepts._ ✅
+- **Rebirth Core To-Do List App**  
+  _A simple and fully functional To-Do List App with dark mode, task editing, search functionality, task reordering, and persistence._ ✅  
 
 ---
 
